@@ -9,6 +9,10 @@ This is CLI app to change your Windows 10 wallpaper with awesome images from Uns
 
 or head over to release page.
 
+## License
+
+MIT
+
 ---
 
 2017 (c) Equan Pr. <@junwatu>
