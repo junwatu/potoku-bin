@@ -11,6 +11,11 @@ This is CLI app to change your Windows 10 wallpaper with awesome images from Uns
 
 or head over to release page.
 
+## NOTE
+Please be aware that this app will download image with the original size from Unsplash.
+
+The images will be saved at **C:\Users\username\Pictures\Unsplash**
+
 ## License
 
 MIT
