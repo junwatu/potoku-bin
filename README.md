@@ -1,4 +1,4 @@
-# Potoku
+# potoku-bin
 *Windows wallpaper changer*
 
 ![demo](https://github.com/junwatu/potoku-bin/raw/master/demo.gif)
