@@ -1,4 +1,4 @@
-# potoku-bin
+# Potoku
 
 ![demo](https://github.com/junwatu/potoku-bin/raw/master/demo.gif)
 
