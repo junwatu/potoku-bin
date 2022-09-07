@@ -1,6 +1,6 @@
 # potoku-bin
 
-![demo](demo.gif)
+![demo](https://github.com/junwatu/potoku-bin/raw/master/demo.gif)
 
 This is CLI app to change your Windows 10 wallpaper with awesome images from Unsplash.
 
