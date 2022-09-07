@@ -1,8 +1,9 @@
 # Potoku
+*Windows wallpaper changer*
 
 ![demo](https://github.com/junwatu/potoku-bin/raw/master/demo.gif)
 
-This is CLI app to change your Windows 10 wallpaper with awesome images from Unsplash.
+This is CLI app will change your Windows 10 or 11 wallpaper with awesome images from Unsplash.
 
 > There is no source code in the moment. Current release is binary only.
 
